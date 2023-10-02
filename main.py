@@ -7,8 +7,8 @@ from email.message import EmailMessage
 import re
 
 # sender infomation
-email_sender = 'robert.pallesen13@gmail.com'
-email_password = 'tvlt udjj anan yojd'
+email_sender = 'email_sender'
+email_password = 'app_password'
 
 # email information
 subject = 'Invitation to our event'
